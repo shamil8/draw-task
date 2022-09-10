@@ -15,6 +15,7 @@
     "lint:fix": "eslint ./src --fix"
   },
   "dependencies": {
+    "canvas": "^2.10.1"
   },
   "devDependencies": {
     "@types/jest": "^28.1.3",
